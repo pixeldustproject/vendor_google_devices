@@ -125,6 +125,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_devices/sailfish/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/google_devices/sailfish/proprietary/lib/hw/audio.primary.msm8996.so:system/lib/hw/audio.primary.msm8996.so \
     vendor/google_devices/sailfish/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
+    vendor/google_devices/sailfish/proprietary/lib/hw/nfc_nci.msm8996.so:system/lib/hw/nfc_nci.msm8996.so \
     vendor/google_devices/sailfish/proprietary/lib/soundfx/libfmas.so:system/lib/soundfx/libfmas.so \
     vendor/google_devices/sailfish/proprietary/lib/libdmengine.so:system/lib/libdmengine.so \
     vendor/google_devices/sailfish/proprietary/lib/libdmjavaplugin.so:system/lib/libdmjavaplugin.so \
@@ -141,6 +142,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_devices/sailfish/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/google_devices/sailfish/proprietary/lib64/hw/audio.primary.msm8996.so:system/lib64/hw/audio.primary.msm8996.so \
     vendor/google_devices/sailfish/proprietary/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
+    vendor/google_devices/sailfish/proprietary/lib64/hw/nfc_nci.msm8996.so:system/lib64/hw/nfc_nci.msm8996.so \
     vendor/google_devices/sailfish/proprietary/lib64/libgps.utils.so:system/lib64/libgps.utils.so \
     vendor/google_devices/sailfish/proprietary/lib64/libimscamera_jni.so:system/lib64/libimscamera_jni.so \
     vendor/google_devices/sailfish/proprietary/lib64/libimsmedia_jni.so:system/lib64/libimsmedia_jni.so \
