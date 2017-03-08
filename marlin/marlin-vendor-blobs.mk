@@ -116,6 +116,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_devices/marlin/proprietary/etc/permissions/rcsservice.xml:system/etc/permissions/rcsservice.xml \
     vendor/google_devices/marlin/proprietary/etc/permissions/telephonyservice.xml:system/etc/permissions/telephonyservice.xml \
     vendor/google_devices/marlin/proprietary/etc/permissions/vzw_sso_permissions.xml:system/etc/permissions/vzw_sso_permissions.xml \
+    vendor/google_devices/marlin/proprietary/etc/sysconfig/photo_backup.xml:system/etc/sysconfig/photo_backup.xml \
     vendor/google_devices/marlin/proprietary/etc/flp.conf:system/etc/flp.conf \
     vendor/google_devices/marlin/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/google_devices/marlin/proprietary/etc/lowi.conf:system/etc/lowi.conf \

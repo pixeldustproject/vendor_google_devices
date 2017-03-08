@@ -117,6 +117,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_devices/sailfish/proprietary/etc/permissions/rcsservice.xml:system/etc/permissions/rcsservice.xml \
     vendor/google_devices/sailfish/proprietary/etc/permissions/telephonyservice.xml:system/etc/permissions/telephonyservice.xml \
     vendor/google_devices/sailfish/proprietary/etc/permissions/vzw_sso_permissions.xml:system/etc/permissions/vzw_sso_permissions.xml \
+    vendor/google_devices/sailfish/proprietary/etc/sysconfig/photo_backup.xml:system/etc/sysconfig/photo_backup.xml \
     vendor/google_devices/sailfish/proprietary/etc/flp.conf:system/etc/flp.conf \
     vendor/google_devices/sailfish/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/google_devices/sailfish/proprietary/etc/lowi.conf:system/etc/lowi.conf \
