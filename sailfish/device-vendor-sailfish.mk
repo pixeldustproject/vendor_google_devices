@@ -73,7 +73,8 @@ PRODUCT_PACKAGES += \
     VZWAPNService \
     VZWAVS \
     VzwLcSilent \
-    VzwOmaTrigger
+    VzwOmaTrigger \
+    WfcActivation
 
 # Symlinks
 PRODUCT_PACKAGES += \
