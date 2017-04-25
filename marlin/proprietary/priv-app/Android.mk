@@ -108,7 +108,7 @@ LOCAL_MODULE_SUFFIX := $(COMMON_ANDROID_PACKAGE_SUFFIX)
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := HotwordEnrollment
+LOCAL_MODULE := GoogleHotwordEnrollment
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := HotwordEnrollment/HotwordEnrollment.apk
 LOCAL_CERTIFICATE := PRESIGNED

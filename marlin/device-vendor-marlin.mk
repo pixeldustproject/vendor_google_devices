@@ -37,7 +37,6 @@ PRODUCT_PACKAGES += \
     shutdownlistener \
     SSRestartDetector \
     TimeService \
-    Tycho \
     VZWAPNLib \
     vzw_msdc_api \
     xdivert
@@ -60,9 +59,8 @@ PRODUCT_PACKAGES += \
     DCMO \
     DiagMon \
     DMService \
-    GCS \
     GoogleCarrierConfig \
-    HotwordEnrollment \
+    GoogleHotwordEnrollment \
     OBDM_Permissions \
     obdm_stub \
     OemDmTrigger \
