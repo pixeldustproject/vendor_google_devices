@@ -59,6 +59,7 @@ PRODUCT_PACKAGES += \
     DCMO \
     DiagMon \
     DMService \
+    GCS \
     GoogleCarrierConfig \
     GoogleHotwordEnrollment \
     OBDM_Permissions \
